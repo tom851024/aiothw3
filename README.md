@@ -10,11 +10,11 @@ This project is a spam email classifier built using machine learning techniques.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tom851024/aiothw1.git
+   git clone https://github.com/tom851024/aiothw3.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd aiothw1
+   cd aiothw3
    ```
 3. Install dependencies:
    ```bash
